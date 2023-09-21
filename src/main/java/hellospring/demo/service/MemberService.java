@@ -9,7 +9,6 @@ import java.util.List;
 import java.util.Optional;
 
 // cmd + shift + T <- 테스트 생성
-@Service
 public class MemberService {
     private final MemberRepository memberRepository;
 
